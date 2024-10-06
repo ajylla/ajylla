@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img align="center" src="./welcome_banner.gif" />
 <!--
 **ajylla/ajylla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
