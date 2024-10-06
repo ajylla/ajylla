@@ -1,4 +1,7 @@
 <img align="middle" src="./welcome_banner.gif" />
+This little banner was generate using [ajylla/soluautomaatti](https://github.com/ajylla/soluautomaatti)
+
+
 
 <!--
 **ajylla/ajylla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
