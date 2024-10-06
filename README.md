@@ -1,5 +1,6 @@
 <p align="center" width="100%">
     <img width="75%" src="./welcome_banner.gif">
+    <p align="center">[This little banner was generated using <a href="https://github.com/ajylla/soluautomaatti">ajylla/soluautomaatti</a>]</p>
 </p>
 
 <!--
